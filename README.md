@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marikala
-- 👀 I’m interested in Web App designing
+- 👀 I’m interested in Web designing
 - 🌱 I’m currently learning UI/UX design
 - 💞️ I’m looking to collaborate on new project
 - 📫 Reach me through marikalaabi@gmail.com
